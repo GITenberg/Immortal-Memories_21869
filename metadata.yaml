@@ -1,0 +1,39 @@
+_repo: Immortal-Memories_21869
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shorter, Clement King
+    birthdate: 1857
+    deathdate: 1926
+    gutenberg_agent_id: '8404'
+    url: http://www.gutenberg.org/2009/agents/8404
+    wikipedia: http://www.lib.udel.edu/ud/spec/findaids/shorterc.htm
+description: ''
+gutenberg_issued: '2007-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21869'
+  lccn: '15013704'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cowper, William, 1731-1800'
+- !lcsh 'Lassalle, Ferdinand, 1825-1864'
+- !lcsh 'Borrow, George, 1803-1881'
+- !lcc 'PR'
+- !lcsh 'Johnson, Samuel, 1709-1784'
+- !lcc 'PN'
+- !lcsh 'Crabbe, George, 1754-1832'
+- !lcsh 'Best books -- Great Britain'
+tableOfContents: I. To the immortal memory of Dr. Samuel Johnson -- II. To the immortal
+  memory of William Cowper -- III. To the immortal memory of George Borrow -- IV.
+  To the immortal memory of George Crabbe -- V. The literary assoc iations of East
+  Anglia -- VI. Dr. Johnson's ancestry -- VII. The private life of Ferdinand Lassalle
+  -- VIII. Lord Acton and the hundred best books.
+title: Immortal Memories
+url: http://www.gutenberg.org/ebooks/21869
